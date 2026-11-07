@@ -35,4 +35,6 @@ Run from an MSVC developer prompt (`vcvars64.bat`). Keep the folder path short, 
 
 ## License
 
-AGPL-3.0, because the plugin is built with [JUCE](https://juce.com) under its AGPLv3 option. See `LICENSE`.
+The source code in this repository is released under the **MIT License** (see `LICENSE`).
+
+The plugin is built with [JUCE](https://juce.com), which is dual-licensed (AGPLv3 or a commercial JUCE license). MIT applies to this project's own code. A built plugin binary also contains JUCE, so distributing it must comply with JUCE's license: the release binaries here are built under JUCE's AGPLv3 option, and if you build your own copy for distribution you need to follow AGPLv3 or hold a JUCE commercial license.
